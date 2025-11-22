@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I'm an enterprise software engineer with **25+ years** building **mission-critical financial technology** and **cloud-native distributed systems**. My professional work spans from low-level C++ systems engineering to modern cloud architecture, with deep expertise in Azure, resilience patterns, event-driven systems, and leading engineering teams to deliver secure, scalable solutions.
+I'm an enterprise software engineer with **25+ years** building **mission-critical financial technology** and **cloud-native distributed systems**. My professional work focuses on **C# and .NET enterprise applications**, with deep expertise in Azure cloud architecture, resilience patterns, event-driven systems, CQRS, and leading engineering teams to deliver secure, scalable solutions.
 
 **This GitHub is my playground** 🎮 — where I explore emerging technologies, experiment with new ideas, and dive into domains outside my day-to-day enterprise work, from blockchain to AI agents to game development.
 
@@ -126,18 +126,19 @@ Data science development environment template
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpmchugh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpmchugh&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+> **Note**: The majority of my development work happens in private organizational repositories. For a complete view of my contribution activity, check my [contribution graph](https://github.com/danielpmchugh) which includes private contributions across multiple organizations.
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielpmchugh&theme=tokyonight)](https://git.io/streak-stats)
+**📈 View my full contribution activity on my [GitHub profile](https://github.com/danielpmchugh)**
+
+These public repositories represent personal exploration projects and learning experiments outside my primary enterprise work.
 
 </div>
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
@@ -160,11 +161,11 @@ Data science development environment template
 ## 📈 Experience Timeline
 
 - **25+ years** in enterprise software engineering
+- **Primary expertise**: C# and .NET for enterprise applications (15+ years)
 - **Financial technology** domain expertise (Revenue processing, Risk systems, Trading platforms, VaR calculations)
-- **Cloud architecture** and distributed systems at scale
-- **Technical leadership** and team management
-- **Full-stack development** from C++ embedded systems and machine vision to modern cloud-native applications
-- **Diverse technical background** spanning defense systems, financial services, and enterprise SaaS
+- **Cloud architecture** specialist with Azure-native distributed systems at scale
+- **Technical leadership** and team management across multiple organizations
+- **Diverse technical background** spanning financial services and enterprise SaaS platforms
 
 ---
 
