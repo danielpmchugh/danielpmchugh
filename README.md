@@ -150,16 +150,6 @@ These public repositories represent personal exploration projects and learning e
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=danielpmchugh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 - 🤖 **Agentic AI Systems**: Multi-agent orchestration with AutoGen, LangGraph, and CrewAI
@@ -188,6 +178,16 @@ These public repositories represent personal exploration projects and learning e
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DanielPMcHugh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchughdaniel/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielpmchugh)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=danielpmchugh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
