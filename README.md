@@ -52,22 +52,3 @@ I'm a software engineer with **25+ years** building **mission-critical financial
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=danielpmchugh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=danielpmchugh&color=blueviolet&style=for-the-badge)
-
-  💡 **Seasoned engineer who loves exploring emerging technologies**
-
-</div>
