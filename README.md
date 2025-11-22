@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Enterprise+Software+Engineer;Cloud+Architecture+%26+Distributed+Systems;25%2B+Years+Experience;Financial+Technology+Expert)](https://git.io/typing-svg)
 
-**Enterprise Software Engineer** | **25+ Years Experience** | **New York**
+**Enterprise Software Engineer** | **25+ Years Experience**
 
 </div>
 
@@ -176,8 +176,6 @@ These public repositories represent personal exploration projects and learning e
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DanielPMcHugh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielpmchugh)
-
-📍 **New York** | 💼 **Open to Senior/Principal/Staff Engineer opportunities**
 
 </div>
 
