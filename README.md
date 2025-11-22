@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Daniel McHugh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Enterprise+Software+Engineer;Cloud+Architecture+%26+Distributed+Systems;25%2B+Years+Experience;Financial+Technology+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;Cloud+Architecture+%26+Distributed+Systems;25%2B+Years+Experience;Financial+Technology+Expert)](https://git.io/typing-svg)
 
-**Enterprise Software Engineer** | **25+ Years Experience**
+**Software Engineer** | **25+ Years Experience**
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## 🎯 About Me
 
-I'm an enterprise software engineer with **25+ years** building **mission-critical financial technology** and **cloud-native distributed systems**. My professional work focuses on **C# and .NET enterprise applications**, with deep expertise in Azure cloud architecture, resilience patterns, event-driven systems, CQRS, and leading engineering teams to deliver secure, scalable solutions.
+I'm a software engineer with **25+ years** building **mission-critical financial technology** and **cloud-native distributed systems**. My professional work focuses on **C# and .NET applications**, with deep expertise in Azure cloud architecture, resilience patterns, event-driven systems, CQRS, and leading engineering teams to deliver secure, scalable solutions.
 
-**This GitHub is my playground** 🎮 — where I explore emerging technologies, experiment with new ideas, and dive into domains outside my day-to-day enterprise work, from blockchain to AI agents to game development.
+**This GitHub is my playground** 🎮 — where I explore emerging technologies, experiment with new ideas, and dive into domains outside my day-to-day work, from blockchain to AI agents to game development.
 
 ---
 
@@ -58,7 +58,7 @@ I'm an enterprise software engineer with **25+ years** building **mission-critic
 
 ## 🔬 Side Projects & Exploration
 
-> **These repositories are personal learning projects** — experiments in technologies and domains I find interesting outside enterprise software. They represent curiosity-driven development across blockchain, AI, gaming, and more.
+> **These repositories are personal learning projects** — experiments in technologies and domains I find interesting outside my professional work. They represent curiosity-driven development across blockchain, AI, gaming, and more.
 
 ### Technologies I'm Exploring
 
@@ -77,7 +77,7 @@ I'm an enterprise software engineer with **25+ years** building **mission-critic
 
 ### 🔥 **4,195 Contributions in the Last Year** 🔥
 
-**Actively shipping production code daily across enterprise systems and personal projects**
+**Actively shipping production code daily across professional systems and personal projects**
 
 </div>
 
@@ -95,12 +95,12 @@ I'm an enterprise software engineer with **25+ years** building **mission-critic
 
 ## 📈 Experience Timeline
 
-- **25+ years** in enterprise software engineering
-- **Primary expertise**: C# and .NET for enterprise applications (15+ years)
+- **25+ years** in software engineering
+- **Primary expertise**: C# and .NET applications (15+ years)
 - **Financial technology** domain expertise (Revenue processing, Risk systems, Trading platforms, VaR calculations)
 - **Cloud architecture** specialist with Azure-native distributed systems at scale
 - **Technical leadership** and team management across multiple organizations
-- **Diverse technical background** spanning financial services and enterprise SaaS platforms
+- **Diverse technical background** spanning financial services and SaaS platforms
 
 ---
 
