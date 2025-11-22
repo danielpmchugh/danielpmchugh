@@ -126,15 +126,27 @@ Data science development environment template
 
 ## 📊 GitHub Activity
 
-> **Note**: The majority of my development work happens in private organizational repositories. For a complete view of my contribution activity, check my [contribution graph](https://github.com/danielpmchugh) which includes private contributions across multiple organizations.
+<div align="center">
+
+### 🔥 **4,195 Contributions in the Last Year** 🔥
+
+**Actively shipping production code daily across enterprise systems and personal projects**
+
+</div>
+
+> **Note**: The majority of my development work happens in private organizational repositories. My contribution graph includes private contributions across multiple organizations, reflecting daily work on enterprise financial technology systems, cloud infrastructure, and distributed applications.
 
 <div align="center">
 
-**📈 View my full contribution activity on my [GitHub profile](https://github.com/danielpmchugh)**
-
-These public repositories represent personal exploration projects and learning experiments outside my primary enterprise work.
+**📈 View my complete [contribution graph](https://github.com/danielpmchugh) for full activity details**
 
 </div>
+
+---
+
+### Public Projects
+
+These public repositories represent personal exploration projects and learning experiments outside my primary enterprise work.
 
 ---
 
