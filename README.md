@@ -70,59 +70,6 @@ I'm an enterprise software engineer with **25+ years** building **mission-critic
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
----
-
-### ⛓️ Blockchain & DeFi Experiments
-
-**[FTSO Price Provider](https://github.com/danielpmchugh/FTSO-price-provider)**
-Price oracle system for Flare blockchain network with multi-exchange data aggregation
-`TypeScript` `Web3` `CCXT` `Docker` `Production-ready patterns`
-
-**Raw Signal Aggregator**
-Cryptocurrency price aggregation from 7+ major exchanges
-`C#` `.NET` `Configuration-driven` `Multi-source data pipelines`
-
-**Price Predictor**
-Machine learning-based cryptocurrency price prediction experiments
-`Python` `PyTorch` `Pandas` `NumPy` `Time series analysis`
-
-**CoinBot**
-Trading bot framework with market data processing and signal generation
-`Python` `Structured architecture` `Testing framework`
-
----
-
-### 🎮 Game Development & Interactive Platforms
-
-**[Mardan Dragon Studios](https://github.com/danielpmchugh/mardan-dragon-studios)**
-Comprehensive Roblox development monorepo with shared libraries and multiple games
-`Lua` `TypeScript` `Monorepo architecture` `Testing` `CI/CD workflows` `Professional documentation`
-
-**[Roblox](https://github.com/danielpmchugh/roblox)**
-Roblox game development with modern tooling and testing infrastructure
-`Lua` `Rojo` `TestEZ` `GitHub Actions` `Automated testing`
-
----
-
-### 🗣️ Full-Stack Applications
-
-**[Voice-Kani](https://github.com/danielpmchugh/voice-kani)**
-Voice-enabled review system for WaniKani Japanese language learning
-`TypeScript` `React` `Next.js` `Jest` `ESLint` `Prettier` `Modern development workflow`
-
----
-
-### 🛠️ Utilities & Data Tools
-
-**WebFetchHandler**
-Configurable web data retrieval and aggregation service
-`C#` `API integration` `Configuration-driven design`
-
-**Codespaces-Jupyter**
-Data science development environment template
-`Python` `Jupyter` `PyTorch` `Data analysis libraries`
-
----
 
 ## 📊 GitHub Activity
 
@@ -133,20 +80,6 @@ Data science development environment template
 **Actively shipping production code daily across enterprise systems and personal projects**
 
 </div>
-
-> **Note**: The majority of my development work happens in private organizational repositories. My contribution graph includes private contributions across multiple organizations, reflecting daily work on enterprise financial technology systems, cloud infrastructure, and distributed applications.
-
-<div align="center">
-
-**📈 View my complete [contribution graph](https://github.com/danielpmchugh) for full activity details**
-
-</div>
-
----
-
-### Public Projects
-
-These public repositories represent personal exploration projects and learning experiments outside my primary enterprise work.
 
 ---
 
