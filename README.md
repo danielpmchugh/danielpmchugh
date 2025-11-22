@@ -71,17 +71,6 @@ I'm a software engineer with **25+ years** building **mission-critical financial
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-### 🔥 **4,195 Contributions in the Last Year** 🔥
-
-**Actively shipping production code daily across professional systems and personal projects**
-
-</div>
-
----
 
 ## 🌱 Currently Exploring
 
