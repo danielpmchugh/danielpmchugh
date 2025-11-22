@@ -30,16 +30,6 @@ I'm a software engineer with **25+ years** building **mission-critical financial
 - 📊 **Observability**: Datadog, OpenTelemetry, Distributed tracing, Structured logging
 - 🗄️ **Database Engineering**: SQL Server, PostgreSQL, Schema design, Performance optimization
 
-
-## 📈 Experience Timeline
-
-- **25+ years** in software engineering
-- **Primary expertise**: C# and .NET applications (15+ years)
-- **Financial technology** domain expertise (Revenue processing, Risk systems, Trading platforms, VaR calculations)
-- **Cloud architecture** specialist with Azure-native distributed systems at scale
-- **Technical leadership** and team management across multiple organizations
-- **Diverse technical background** spanning financial services and SaaS platforms
-
 ---
 
 ## 📫 Connect
