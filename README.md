@@ -1,44 +1,47 @@
 <div align="center">
 
-# 👋 Hi, I'm Daniel McHugh
+# Daniel McHugh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;Cloud+Architecture+%26+Distributed+Systems;25%2B+Years+Experience;Financial+Technology+Expert)](https://git.io/typing-svg)
+**Principal Engineer**
 
-**Software Engineer** | **25+ Years Experience**
+.NET • Azure • Event-Driven Architecture • AI/LLM Integration
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a software engineer with **25+ years** building **mission-critical financial technology** and **cloud-native distributed systems**. My professional work focuses on **C# and .NET applications**, with deep expertise in Azure cloud architecture, resilience patterns, event-driven systems, CQRS, and leading engineering teams to deliver secure, scalable solutions.
-
-**This GitHub is my playground** 🎮 — where I explore emerging technologies, experiment with new ideas, and dive into domains outside my day-to-day work, from blockchain to AI agents to game development.
+Principal Engineer with **20+ years** building production financial technology and cloud-native systems. Currently focused on **AI/LLM agents, document-processing automation, and search**, backed by deep experience in Azure, distributed systems, and secure API integrations. I lead backend teams, set technical direction, and ship mission-critical systems with strong testing, observability, and CI/CD automation.
 
 ---
 
-## 💼 Professional Expertise
+## What I Work With
 
-### What I Build Professionally
-
-- 🏗️ **Cloud-Native Architecture**: Azure App Services, Container Apps, Service Bus, Event Hub, Redis Cache
-- 🔐 **Secure, Resilient Systems**: CQRS patterns, Circuit Breakers, Retry policies, Zero Trust security
-- 👥 **Technical Leadership**: Team management, engineering standards, code reviews, mentorship
-- ⚡ **Event-Driven Systems**: MediatR, Message queues, Distributed transactions
-- 🔄 **DevOps & CI/CD**: GitHub Actions, Trunk-based development, Feature flags, Automated testing
-- 📊 **Observability**: Datadog, OpenTelemetry, Distributed tracing, Structured logging
-- 🗄️ **Database Engineering**: SQL Server, PostgreSQL, Schema design, Performance optimization
+- **AI & Automation:** Microsoft Agent Framework, LLM integration, Azure AI Search, document-processing workflows. Python (Jupyter) for exploration.
+- **Cloud & Architecture:** Azure App Service, Container Apps, Service Bus, Event Hub, Redis Cache; CQRS, event-driven design, resilience patterns (retries, circuit breakers, throttling)
+- **Security & Identity:** OAuth 2.0, OIDC, SSO, JWT, Managed Identity, Key Vault
+- **Data:** SQL Server, PostgreSQL, Redis, schema design, query performance tuning
+- **Delivery & Observability:** GitHub Actions, trunk-based development, LaunchDarkly, Datadog, OpenTelemetry
+- **Leadership:** engineering standards, code reviews, mentoring
 
 ---
 
-## 📫 Connect
+## Projects
+
+| Project | What it is |
+|---|---|
+| [chess-pattern-analyzer](https://github.com/danielpmchugh/chess-pattern-analyzer) | FastAPI + Next.js app that analyzes Chess.com games for recurring weaknesses. |
+| [flare-monitor](https://github.com/danielpmchugh/flare-monitor) | Async Python monitor for token prices across DEXes on Flare Network, with circuit-breaker RPC handling. |
+| [mardan-dragon-studios](https://github.com/danielpmchugh/mardan-dragon-studios) | Multi-package Roblox/Lua game project with shared libraries, tests, and CI/CD. |
+
+---
+
+## Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DanielPMcHugh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchughdaniel/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielpmchugh)
 
 </div>
-
